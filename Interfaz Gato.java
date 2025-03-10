@@ -9,7 +9,7 @@ import javax.swing.JLabel;
 
 /**
  *
- *@autor Perla Diaz
+ *@autor Esdrey Moguel Diaz
  */
 public class Gato extends javax.swing.JFrame {
   boolean estado=true;//si es true se puede escribir
